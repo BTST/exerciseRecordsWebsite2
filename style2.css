@@ -1,0 +1,13 @@
+/* Define standard variables and values for website for bottom area*/
+/* Use the variables */
+.col-md-3 {
+  font-size: 18px;
+}
+.col-md-3 p {
+  color: blue;
+}
+.col-md-3 ul {
+  color: green;
+}
+
+/*# sourceMappingURL=style2.css.map */
