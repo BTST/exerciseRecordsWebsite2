@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+/* Define standard variables and values for website for bottom area*/
+$bgcolor: lightblue;
+$textcolor: blue;
+$fontsize: 18px;
+
+/* Use the variables */
+.col-md-3 {
+    font-size: $fontsize;
+
+    p {
+        color: blue;
+    }
+
+    ul {
+        color: green;
+    }
+}
